@@ -1,0 +1,10 @@
+C:\simplilearn\Day-20\Assignment-25\Assignment-25\bin\Debug\Assignment-25.exe.config
+C:\simplilearn\Day-20\Assignment-25\Assignment-25\bin\Debug\Assignment-25.exe
+C:\simplilearn\Day-20\Assignment-25\Assignment-25\bin\Debug\Assignment-25.pdb
+C:\simplilearn\Day-20\Assignment-25\Assignment-25\bin\Debug\MySharedLibrary.dll
+C:\simplilearn\Day-20\Assignment-25\Assignment-25\bin\Debug\MySharedLibrary.pdb
+C:\simplilearn\Day-20\Assignment-25\Assignment-25\obj\Debug\Assignment-25.csproj.AssemblyReference.cache
+C:\simplilearn\Day-20\Assignment-25\Assignment-25\obj\Debug\Assignment-25.csproj.CoreCompileInputs.cache
+C:\simplilearn\Day-20\Assignment-25\Assignment-25\obj\Debug\Assignment-25.csproj.CopyComplete
+C:\simplilearn\Day-20\Assignment-25\Assignment-25\obj\Debug\Assignment-25.exe
+C:\simplilearn\Day-20\Assignment-25\Assignment-25\obj\Debug\Assignment-25.pdb
